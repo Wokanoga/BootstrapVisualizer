@@ -12,3 +12,13 @@
     border: 1px blue solid;
     margin: 5px;
 }
+
+.n-f-s {
+    border: 0 transparent;
+}
+
+.n-f-s .row, .n-f-s .row .col {
+    border: 0 transparent;
+    padding: 0;
+    margin: 0;
+}
